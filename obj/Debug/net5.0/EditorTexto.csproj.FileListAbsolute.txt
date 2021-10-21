@@ -1,0 +1,16 @@
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\bin\Debug\net5.0\EditorTexto.exe
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\bin\Debug\net5.0\EditorTexto.deps.json
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\bin\Debug\net5.0\EditorTexto.runtimeconfig.json
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\bin\Debug\net5.0\EditorTexto.runtimeconfig.dev.json
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\bin\Debug\net5.0\EditorTexto.dll
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\bin\Debug\net5.0\ref\EditorTexto.dll
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\bin\Debug\net5.0\EditorTexto.pdb
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.csproj.AssemblyReference.cache
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.AssemblyInfo.cs
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.dll
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\ref\EditorTexto.dll
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.pdb
+C:\Users\yasmin\Programacao\Curso_desenvolvedor_dotnet\EditorTexto\obj\Debug\net5.0\EditorTexto.genruntimeconfig.cache
